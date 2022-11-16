@@ -1,0 +1,276 @@
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.exe
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.deps.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.dev.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\ref\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.pdb
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.Form1.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfoInputs.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfo.cs
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\ref\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.pdb
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.genruntimeconfig.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CopyComplete
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.LoginGUI.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\appsettings.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.Main.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyDocGia.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyLoaiSach.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyMuonTraSach.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyTacGia.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\appsettings.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.exe
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.deps.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.dev.json
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\ref\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.pdb
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.Form1.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.LoginGUI.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.Main.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyDocGia.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyLoaiSach.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyMuonTraSach.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyTacGia.resources
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfoInputs.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfo.cs
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CopyComplete
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\ref\QuanLyThuVien.dll
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.pdb
+E:\Desktop\FPT learning\5. Summer2022\PRN211\project\Group4_SE1607\backup\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.genruntimeconfig.cache
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\appsettings.json
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.exe
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.deps.json
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.json
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.dev.json
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\ref\QuanLyThuVien.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.pdb
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Humanizer.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.Form1.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.LoginGUI.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.Main.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyDocGia.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyLoaiSach.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyMuonTraSach.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyTacGia.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.ThemMuonSach.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.XemChiTietMuonSach.resources
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfoInputs.cache
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfo.cs
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CopyComplete
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\ref\QuanLyThuVien.dll
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.pdb
+D:\Ki5\PRNki5\project\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.genruntimeconfig.cache
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\appsettings.json
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.exe
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.deps.json
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.json
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.runtimeconfig.dev.json
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\QuanLyThuVien.pdb
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Humanizer.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.Form1.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.LoginGUI.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.Main.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyDocGia.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyLoaiSach.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyMuonTraSach.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.QuanLyTacGia.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.ThemMuonSach.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GUI.XemChiTietMuonSach.resources
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.GenerateResource.cache
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfoInputs.cache
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.AssemblyInfo.cs
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.csproj.CopyComplete
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\refint\QuanLyThuVien.dll
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.pdb
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\QuanLyThuVien.genruntimeconfig.cache
+D:\PRN211_M4\quanlythuvien\source\QuanLyThuVien\QuanLyThuVien\obj\Debug\net5.0-windows\ref\QuanLyThuVien.dll
